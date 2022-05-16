@@ -1,3 +1,2 @@
 # ProjetoIntegrador01
-
-Aplicativo modelo full-stack usando HTML, CSS, PHP e MySQL.
+Projeto integrador módulo 02. Técnico em Informática - Senac. Professor André Ataíde.
