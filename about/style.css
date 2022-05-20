@@ -40,3 +40,15 @@
 .termo{
     padding: 40px;
 }
+
+.link {
+    margin: 1rem 0;
+    cursor: pointer;
+    font-weight: bold;
+    color: black;
+   font-size: small;
+}
+
+.link:hover{
+    color:red;
+}

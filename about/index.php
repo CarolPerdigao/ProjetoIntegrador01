@@ -15,21 +15,21 @@ require($_SERVER['DOCUMENT_ROOT'] . '/_header.php');
     <img src="/img/emanuelle.png" alt="">
     <div class="sobrealt">
         <h3>Emanuelle Oliveira</h3>
-        <p class="sobre-sub">Tenho 20 anos, gosto de livros sobre suspense e consome bastante coisa sobre true crime (séries doc, podcasts e canais no youtube)</p>
+        <p class="sobre-sub">Emanuelle é programadora e possui 20 anos de idade. Gosta bastante de consumir livros do gênero suspense, ficção científica e poesia. Gosta de ouvir e ver assuntos envolvendo true crime, serial killers, casos criminais, misterios, astronomia e fotografia. <i class="fa-solid fa-skull"></i></p>
     </div>
 </div>
 <div class="sobre">
     <img src="/img/carol.png" alt="">
     <div class="sobrealt">
         <h3>Carol Perdigão</h3>
-        <p class="sobre-sub">Tenho 21 anos, gosto de livros sobre suspense e consome bastante coisa sobre true crime (séries doc, podcasts e canais no youtube)</p>
+        <p class="sobre-sub">Carol é programadora e possui 21 anos de idade. Gosta bastante de consumir livros de romance, ficcção científica, ficção, e enemis to lovers. Carol não é trouxa. <i class="fa-solid fa-wand-sparkles"></i></p>
     </div>
 </div>
 <div class="sobre">
     <img src="/img/Gabriel.png" alt="">
     <div class="sobrealt">
         <h3>Gabriel Santana</h3>
-        <p class="sobre-sub">Tenho 18 anos, gosto de livros sobre suspense e consome bastante coisa sobre true crime (séries doc, podcasts e canais no youtube)</p>
+        <p class="sobre-sub">Gabriel é programador e possui 18 anos de idade. Gosta bastante de consumir livros de não-ficcção, ficcção científica, clássicos, drama e enemis to lovers. Ele faz parte do lado negro da força. <i class="fa-brands fa-old-republic"></i></p>
     </div>
 </div>
 <div class="politicas">
@@ -43,9 +43,9 @@ require($_SERVER['DOCUMENT_ROOT'] . '/_header.php');
 <aside>
 
     <h3>Links úteis</h3>
-    <p><a href="#sobre">• Sobre a BookSide</a></p>
-    <p><a href="#politicas">• Sua privacidade</a></p>
-    <p><a href="#termos">• Termos de serviço</a></p>
+    <p><a class= "link" href="#sobre">• Sobre a BookSide</a></p>
+    <p><a class= "link" href="#politicas">• Sua privacidade</a></p>
+    <p><a class= "link" href="#termos">• Termos de serviço</a></p>
 
 </aside>
 

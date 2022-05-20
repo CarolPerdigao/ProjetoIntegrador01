@@ -82,6 +82,7 @@ $html_author = <<<HTML
     <ul>
         <li><strong>{$artigo['user_name']}</strong></li>
         <li>E-mail: <a href="mailto:{$artigo['user_email']}" target="_blank">{$artigo['user_email']}</a></li>
+        <li>Github: <a href="{$artigo['user_git']}" target="_blank">{$artigo['user_git']}</a></li>
         <li>Nasceu em {$artigo['birth_br']} ({$idade} anos)</li>
         <li>{$artigo['user_profile']}</li>
     </ul>
