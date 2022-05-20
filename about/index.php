@@ -26,7 +26,7 @@ require($_SERVER['DOCUMENT_ROOT'] . '/_header.php');
     </div>
 </div>
 <div class="sobre">
-    <img src="/img/Gabriel.png" alt="">
+    <img src="/img/gabriel.png" alt="">
     <div class="sobrealt">
         <h3>Gabriel Santana</h3>
         <p class="sobre-sub">Gabriel é programador e possui 18 anos de idade. Gosta bastante de consumir livros de não-ficcção, ficcção científica, clássicos, drama e enemis to lovers. Ele faz parte do lado negro da força. <i class="fa-brands fa-old-republic"></i></p>
